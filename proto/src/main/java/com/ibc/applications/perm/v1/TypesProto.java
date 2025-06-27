@@ -69,7 +69,7 @@ public final class TypesProto {
   }
   /**
    * <pre>
-   * PermissionedRelayer is used to specifiy the permissioned relayer for
+   * PermissionedRelayer is used to specify the permissioned relayer for
    * the specific port-id:channel-id pair.
    * </pre>
    *
@@ -411,7 +411,7 @@ public final class TypesProto {
     }
     /**
      * <pre>
-     * PermissionedRelayer is used to specifiy the permissioned relayer for
+     * PermissionedRelayer is used to specify the permissioned relayer for
      * the specific port-id:channel-id pair.
      * </pre>
      *

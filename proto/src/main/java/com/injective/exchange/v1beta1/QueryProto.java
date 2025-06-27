@@ -166,7 +166,7 @@ public final class QueryProto {
     FromWorstToBest(1),
     /**
      * <pre>
-     * e.g. for buy orders from higest to lowest price
+     * e.g. for buy orders from highest to lowest price
      * </pre>
      *
      * <code>FromBestToWorst = 2;</code>
@@ -193,7 +193,7 @@ public final class QueryProto {
     public static final int FromWorstToBest_VALUE = 1;
     /**
      * <pre>
-     * e.g. for buy orders from higest to lowest price
+     * e.g. for buy orders from highest to lowest price
      * </pre>
      *
      * <code>FromBestToWorst = 2;</code>
